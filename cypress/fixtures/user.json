@@ -1,0 +1,17 @@
+{
+    "user":{
+        "civility" : "Mr",
+        "first_name":"sam",
+        "family_name":"Graham",
+        "email":"testing@test.fr",
+        "ivalid_mail" : "testingtest.fr",
+        "phone":"0666666666",
+        "birth_year":2000,
+        "birth_day": 9,
+        "birth_month": 9,
+        "city" : "Paris",
+        "company" : "testing company",
+        "alias" : "test",
+        "mobile" : "0666666666"
+    }
+}
